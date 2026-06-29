@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhisheksaple24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhisheksaple24/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhisheksaple24/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhisheksaple24/LeetCode/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
