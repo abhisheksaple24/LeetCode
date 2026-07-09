@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhisheksaple24/LeetCode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/abhisheksaple24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhisheksaple24/LeetCode/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksaple24/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
