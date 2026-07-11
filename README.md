@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhisheksaple24/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhisheksaple24/LeetCode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/abhisheksaple24/LeetCode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -129,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
