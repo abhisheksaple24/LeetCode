@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/abhisheksaple24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhisheksaple24/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/abhisheksaple24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhisheksaple24/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/abhisheksaple24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhisheksaple24/LeetCode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
