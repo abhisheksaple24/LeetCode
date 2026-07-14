@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhisheksaple24/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
