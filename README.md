@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/abhisheksaple24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/abhisheksaple24/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -151,9 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
