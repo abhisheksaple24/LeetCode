@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/abhisheksaple24/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/abhisheksaple24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhisheksaple24/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/abhisheksaple24/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhisheksaple24/LeetCode/tree/master/0051-n-queens) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/abhisheksaple24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhisheksaple24/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/abhisheksaple24/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/abhisheksaple24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhisheksaple24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhisheksaple24/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
