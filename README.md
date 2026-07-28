@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhisheksaple24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhisheksaple24/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksaple24/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhisheksaple24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhisheksaple24/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
