@@ -18,18 +18,18 @@ public:
 
         while(curr != NULL) {
 
-            // Store next node
+            // Store next node to avoid address loss
             next = curr->next;
 
-            // Reverse current node's pointer
+            // Reverse connect
             curr->next = prev;
 
-            // Move prev and curr one step ahead
+            // update position
             prev = curr;
             curr = next;
         }
 
-        // New head of reversed list
+        // New head
         return prev;
     }
 };
