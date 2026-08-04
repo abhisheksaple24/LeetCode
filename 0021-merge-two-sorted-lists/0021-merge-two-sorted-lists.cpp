@@ -10,33 +10,28 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
 
-        ListNode dummy(-1);
-        ListNode* temp = &dummy;
+    ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
 
-        while(list1 != NULL && list2 != NULL) {
-
-            if(list1->val <= list2->val) {
-                temp->next = list1;
-                list1 = list1->next;
-            }
-            else {
-                temp->next = list2;
-                list2 = list2->next;
-            }
-
-            temp = temp->next;
+        // Base Case
+        if(head1 == NULL) {
+            return head2;
         }
 
-        if(list1 != NULL) {
-            temp->next = list1;
+        if(head2 == NULL) {
+            return head1;
         }
 
-        if(list2 != NULL) {
-            temp->next = list2;
+        // Case 1
+        if(head1->val <= head2->val) {
+            head1->next = mergeTwoLists(head1->next, head2);
+            return head1;
         }
 
-        return dummy.next;
+        // Case 2
+        else {
+            head2->next = mergeTwoLists(head1, head2->next);
+            return head2;
+        }
     }
 };
