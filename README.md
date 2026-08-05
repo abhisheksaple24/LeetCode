@@ -151,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
 ## Matrix
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhisheksaple24/LeetCode/tree/master/0141-linked-list-cycle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
