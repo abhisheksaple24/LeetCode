@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abhisheksaple24/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhisheksaple24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/abhisheksaple24/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhisheksaple24/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhisheksaple24/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhisheksaple24/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhisheksaple24/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
