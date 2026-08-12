@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/abhisheksaple24/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/abhisheksaple24/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abhisheksaple24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhisheksaple24/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0039-combination-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhisheksaple24/LeetCode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhisheksaple24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
