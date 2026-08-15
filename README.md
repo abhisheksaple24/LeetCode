@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisheksaple24/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/abhisheksaple24/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhisheksaple24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/abhisheksaple24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/abhisheksaple24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhisheksaple24/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/abhisheksaple24/LeetCode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksaple24/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/abhisheksaple24/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/abhisheksaple24/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/abhisheksaple24/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksaple24/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhisheksaple24/LeetCode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
