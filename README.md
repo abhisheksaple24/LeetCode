@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhisheksaple24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/abhisheksaple24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/abhisheksaple24/LeetCode/tree/master/0509-fibonacci-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0100-same-tree) |
 ## Matrix
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhisheksaple24/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhisheksaple24/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhisheksaple24/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhisheksaple24/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/abhisheksaple24/LeetCode/tree/master/0099-recover-binary-search-tree) |
 ## Doubly-Linked List
 |  |
